@@ -1,7 +1,7 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
+title: Typography
+author: Wu Han
+date: 2020-10-16 11:33:00 +0800
 categories: [Blogging, Algorithm]
 tags: [typography]
 math: true
