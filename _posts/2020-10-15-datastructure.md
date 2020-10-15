@@ -4,8 +4,6 @@ author: Wu Han
 date: 2020-10-15 22:54:00 +0800
 categories: [Coding, C/C++]
 tags: [DataStructure]
-toc: true
-math: true
 ---
 
 ## 算法
