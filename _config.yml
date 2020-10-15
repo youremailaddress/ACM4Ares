@@ -26,18 +26,18 @@ github:
   username: youremailaddress             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: youknow71002211            # change to your twitter username
 
 social:
   name: Wu Han                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  email: wuhanustc@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+          # change to your twitter homepage
+    - https://github.com/youremailaddress
+    - https://twitter.com/youknow71002211     # change to your github homepage
+    - https://www.zhihu.com/people/lumos-19-57
+    - https://music.163.com/#/user?id=2058975100
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -46,7 +46,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl: '/ACM4Ares'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
