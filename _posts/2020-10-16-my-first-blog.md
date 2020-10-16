@@ -3,8 +3,9 @@ title: My First Blog
 author: Wu Han
 date: 2020-10-16 10:38:00 +0800
 categories: [Blogs, Essays]
-tags: []
+tags: [Essay]
 math: false
+pin: true
 image: /assets/img/posts/myfirstblog.jpg
 ---
 
