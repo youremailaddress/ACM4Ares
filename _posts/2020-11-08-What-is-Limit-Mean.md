@@ -60,6 +60,9 @@ pin: false
 这其实是最普遍的一种情况了，但是有了之前的铺垫，这种情况其实没有什么难度。在这里我放上一张图以便让大家更好的体会控制范围的情况。![一般极限](/assets/img/posts/limitina.jpg)
 >对于\\(\forall \epsilon>0\\),\\(\exists \delta\\),当\\(x\in (a-\delta,a+\delta)\\)时,\\(f(x)\in (b-\epsilon,b+\epsilon)\\)恒成立。记作\\(\lim\limits_{x\to a}f(x)=b\\).
 
+## FriendLinks
+写的比我更高屋建瓴一些，建议等学过之后返回来看健健的
+[今日份翻译:极限 于易尽里，望见了无垠](https://mp.weixin.qq.com/s?__biz=Mzg5NjUyMDcxNg==&mid=100000080&idx=3&sn=a45418da2efdfddccb99a492b5ceb893&chksm=407e863377090f25844abbde2e9616c20c5c6c98e0c967f758550c2000fc475966994027234a&mpshare=1&scene=23&srcid=1108Yjem4lhi4eWOVrlYiYja&sharer_sharetime=1604803983803&sharer_shareid=2a40fffd482501d7eae10e467aafb7a2#rd)
 
 ## FootNote
 [^FootNote1]:可列多个是一种特殊的无穷，它指某个集合里的每一个元素可以和一个自然数对应从而形成整体上的一一对应。
