@@ -1,7 +1,7 @@
 ---
 title: What is limit mean
 author: Wu Han
-date: 2020-11-07 10:38:00 +0800
+date: 2020-11-08 10:44:00 +0800
 categories: [Math]
 tags: [Analysis,Limit]
 math: true
@@ -54,11 +54,11 @@ pin: false
 
 拆解一下
 >\\(\exists \delta,\\)当\\(x\in (a-\delta,a+\delta) \to\\)让x在一个小邻域里
-> 对于$\forall M>0$,$f(x)>M$恒成立 $\to$让y趋于无穷
+> 对于\\(\forall M>0\\),\\(f(x)>M\\)恒成立 \\(\to\\)让y趋于无穷
 
 - 有限极限有限:
 这其实是最普遍的一种情况了，但是有了之前的铺垫，这种情况其实没有什么难度。在这里我放上一张图以便让大家更好的体会控制范围的情况。![一般极限](/assets/img/posts/limitlna.jpg)
->对于$\forall \epsilon>0$,$\exists \delta$,当$x\in (a-\delta,a+\delta)$时,$f(x)\in (b-\epsilon,b+\epsilon)$恒成立。记作$\lim\limits_{x\to a}f(x)=b$.
+>对于\\(\forall \epsilon>0\\),\\(\exists \delta\\),当\\(x\in (a-\delta,a+\delta)\\)时,\\(f(x)\in (b-\epsilon,b+\epsilon)\\)恒成立。记作\\(\lim\limits_{x\to a}f(x)=b\\).
 ## FootNote
 [^FootNote1]:可列多个是一种特殊的无穷，它指某个集合里的每一个元素可以和一个自然数对应从而形成整体上的一一对应。
-[^FootNote2]:观察图二，我们可以看出来,$f_2(x)$被$f_1(x)$和$y=-\frac{1}{x}$包在了中间，形象的，我们把它称之为包络(信号学意义上).包络的数学定义参见[wiki](https://en.wikipedia.org/wiki/Envelope_(mathematics)).
+[^FootNote2]:观察图二，我们可以看出来,\\(f_2(x)\\)被\\(f_1(x)\\)和\\(y=-\frac{1}{x}\\)包在了中间，形象的，我们把它称之为包络(信号学意义上).包络的数学定义参见[wiki](https://en.wikipedia.org/wiki/Envelope_(mathematics)).
