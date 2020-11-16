@@ -1,7 +1,7 @@
 ---
 title: First C exercise
 author: Wu Han
-date: 2020-11-16 23:30:00 +0800
+date: 2020-11-16 23:36:00 +0800
 categories: [Coding,CandCPlus]
 tags: [Exercises]
 math: false
@@ -81,7 +81,7 @@ int f int d double h
 - "噗..你是真傻还是假傻"，谢山彤没绷住，笑得前仰后合。"办电话卡要身份证啊傻子！"
 
 ### P.S.
-整体而言这几道题目不算太难，如果一定要挑一道最难的应该是第三道。但只要把大问题分解成小问题还是很容易的，第三题思路来源@中国移动，它告诉我们现实往往比虚构更加离谱。[中国移动](/assets/img/posts/zhongguoyidong.jpg)
+整体而言这几道题目不算太难，如果一定要挑一道最难的应该是第三道。但只要把大问题分解成小问题还是很容易的，第三题思路来源@中国移动，它告诉我们现实往往比虚构更加离谱。![中国移动](/assets/img/posts/zhongguoyidong.jpg)
 
 ### P.P.S.
 突然想到的脑洞小故事，就用它把题目串起来了，脉络还不是很完善，不过我觉得按照周更的进度可以写下去emm，就当爽文看吧（不是）
